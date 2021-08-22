@@ -1,2 +1,2 @@
 # Analisis-de-opiniones-Hoteles-CDMX
-Usando python y librerias como pandas
+Analisis de opiniones extraidas de distintas páginas web con Web Sraping (Python).
